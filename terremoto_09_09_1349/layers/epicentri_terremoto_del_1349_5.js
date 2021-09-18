@@ -1,0 +1,11 @@
+var json_epicentri_terremoto_del_1349_5 = {
+"type": "FeatureCollection",
+"name": "epicentri_terremoto_del_1349_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Toponimo": "<b>Abruzzo</b>", "Localizzaz": "<br>Latitudine: <b>42.022</b><br>Longitudine: <b>13.970</b><br>Tipologia di epicentro: <b>Calcolato</b>", "Descrizion": "Data: <b>09-09-1349</b><br>Intensità epicentrale sulla scala Mercalli (MCS): <b>9</b><br>Intensità massima sulla scala Mercalli (MCS): <b>9</b><br>Numero di osservazioni macrosismiche: <b>4</b><br>Magnetudo equivalente: <b>6</b>" }, "geometry": { "type": "Point", "coordinates": [ 13.97, 42.022 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "<b>Viterbese-Umbria</b>", "Localizzaz": "<br>Latitudine: <b>42.512</b><br>Longitudine: <b>11.932</b><br>Tipologia di epicentro: <b>Calcolato</b>", "Descrizion": "Data: <b>09-09-1349</b><br>Intensità epicentrale sulla scala Mercalli (MCS): <b>8.5</b><br>Intensità massima sulla scala Mercalli (MCS): <b>8.5</b><br>Numero di osservazioni macrosismiche: <b>9</b><br>Magnetudo equivalente: <b>6.4</b>" }, "geometry": { "type": "Point", "coordinates": [ 11.932, 42.512 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "<b>Aquilano</b>", "Localizzaz": "<br>Latitudine: <b>42.271</b><br>Longitudine: <b>13.132</b><br>Tipologia di epicentro: <b>Calcolato</b>", "Descrizion": "Data: <b>09-09-1349</b><br>Intensità epicentrale sulla scala Mercalli (MCS): <b>9</b><br>Intensità massima sulla scala Mercalli (MCS): <b>9</b><br>Numero di osservazioni macrosismiche: <b>17</b><br>Magnetudo equivalente: <b>6.1</b>" }, "geometry": { "type": "Point", "coordinates": [ 13.132, 42.271 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "<b>Lazio meridionale-Molise</b>", "Localizzaz": "<br>Latitudine: <b>41.582</b><br>Longitudine: <b>13.907</b><br>Tipologia di epicentro: <b>Calcolato</b>", "Descrizion": "Data: <b>09-09-1349</b><br>Intensità epicentrale sulla scala Mercalli (MCS): <b>10</b><br>Intensità massima sulla scala Mercalli (MCS): <b>10</b><br>Numero di osservazioni macrosismiche: <b>20</b><br>Magnetudo equivalente: <b>6.8</b>" }, "geometry": { "type": "Point", "coordinates": [ 13.907, 41.582 ] } }
+]
+}

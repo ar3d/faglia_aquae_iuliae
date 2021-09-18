@@ -1,0 +1,16 @@
+var json_1349_centri_colpiti_viterbese_umbria_1 = {
+"type": "FeatureCollection",
+"name": "1349_centri_colpiti_viterbese_umbria_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Toponimo": "Toscanella (VT)", "Descrizione": "<br>Latitudine: <b>42.421</b> <br>Longitudine: <b>11.870</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>VIII-IX</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 11.87, 42.421 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Viterbo (VT)", "Descrizione": "<br>Latitudine: <b>42.421</b> <br>Longitudine: <b>12.110</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>VIII-IX</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 12.11, 42.421 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Onano (VT)", "Descrizione": "<br>Latitudine: <b>42.693</b> <br>Longitudine: <b>11.816</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>VIII</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 11.816, 42.693 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Orvieto (TR)", "Descrizione": "<br>Latitudine: <b>42.719</b> <br>Longitudine: <b>12.113</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>VII-VIII</b> <br>Effetti sull'ambiente naturale: <b>Intorbidimento dell'acqua (effetto rilevato per l'intera sequenza sismica)</b>" }, "geometry": { "type": "Point", "coordinates": [ 12.113, 42.719 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Perugia (PG)", "Descrizione": "<br>Latitudine: <b>43.107</b> <br>Longitudine: <b>12.386</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>VI-VII</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 12.386, 43.107 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Terni (TR)", "Descrizione": "<br>Latitudine: <b>42.562</b> <br>Longitudine: <b>12.648</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>VI-VII</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 12.648, 42.562 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Bologna (BO)", "Descrizione": "<br>Latitudine: <b>44.499</b> <br>Longitudine: <b>11.340</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>IV-V</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 11.34, 44.499 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Modena (MO)", "Descrizione": "<br>Latitudine: <b>44.648</b> <br>Longitudine: <b>10.925</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>III</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 10.925, 44.648 ] } },
+{ "type": "Feature", "properties": { "Toponimo": "Pisa (PI)", "Descrizione": "<br>Latitudine: <b>43.717</b> <br>Longitudine: <b>10.400</b> <br>Intensità segnalata sulla scala Mercalli (MCS): <b>Non classificata</b> <br>Effetti sull'ambiente naturale: <b>-</b>" }, "geometry": { "type": "Point", "coordinates": [ 10.4, 43.717 ] } }
+]
+}
