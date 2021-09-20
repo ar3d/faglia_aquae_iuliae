@@ -300,7 +300,7 @@ model-viewer {
   overflow-wrap: break-word;
   padding: 0.5em 1em;
   position: absolute;
-  top: -400%;
+  top: -500%;
   left: -900%;
   width: max-content;
 }
