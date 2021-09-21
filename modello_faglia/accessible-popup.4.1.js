@@ -206,13 +206,13 @@ var debounce=function(e,t,n){var a;return function(){var r=this,i=arguments,o=fu
 
     // test if it's not a button
     var tag = modalLink.tagName.toLowerCase();
-    if (tag !== "button") {
-      modalLink.setAttribute("aria-role", "button");
+    if (tag !== "buttoniframe") {
+      modalLink.setAttribute("aria-role", "buttoniframe");
       modalLink.addEventListener("keydown", _keydown_openerObj, false);
     }
 
     // click only requires space and enter activtion too
-    if (tag !== "a" || "button") {
+    if (tag !== "a" || "buttoniframe") {
       modalLink.tabIndex = 0;
     }
 
