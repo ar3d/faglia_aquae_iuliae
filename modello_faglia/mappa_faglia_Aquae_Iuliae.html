@@ -38,6 +38,7 @@
 </svg>
 
     <!-- <model-viewer> HTML element -->
+    <main class=-modal>
     <model-viewer src="mappa_faglia.glb" camera-controls min-camera-orbit="auto 0deg auto" max-camera-orbit="auto 90deg auto" camera-orbit="0.4775deg 39.19deg auto" id="modelViewer" ar ar-modes="webxr">
       <button class="Hotspotaudio" slot="hotspot-1" data-position="-0.6361805932995763m 0.6767822963133596m 0.6483555741750152m" data-normal="0m 0.5200031141186146m 0.854164364339173m" data-visibility-attribute="visible">
           <div class="HotspotAnnotationaudio">La faglia Aquae Iuliae<br><audio controls style="height:35px; width:120px;">
@@ -61,7 +62,7 @@
           <div class="HotspotAnnotationpopup">Attraversamento acquedotto</div>
       </button>
       <button class="Hotspotpopup" slot="hotspot-10" data-position="-0.0014812204373193805m 0.9951458893949638m -0.02188069478908064m" data-normal="-0.006237787136960788m 0.9999373006734139m 0.009299716855934878m" data-visibility-attribute="visible">
-          <div class="HotspotAnnotationpopup"><div class="-modal"><div class="buttoniframe" <button data-modal="https://ar3d.github.io/faglia_aquae_iuliae/modello_faglia/acque_solfe.html">Acque solfe</button></div></div></div>
+          <div class="HotspotAnnotationpopup"><div class="buttoniframe" <button data-modal="https://ar3d.github.io/faglia_aquae_iuliae/modello_faglia/acque_solfe.html">Acque solfe</button></div></div>
       </button>
       <button class="Hotspotpopup" slot="hotspot-11" data-position="0.28335888583846175m 0.9975267968020902m 0.38876489751832544m" data-normal="0.021520562438721583m 0.9997313589774035m -0.008606699106804795m" data-visibility-attribute="visible">
           <div class="HotspotAnnotationpopup">Soffione</div>
@@ -97,6 +98,7 @@
     </div>
 <!--     <paper-toggle-button id="toggleHotspotsaudio">Show annotations</paper-toggle-button> --> 
     </model-viewer> 
+</main>
     <script src="script.js"></script>
     <script type="module">
     
