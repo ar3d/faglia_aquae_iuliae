@@ -10,9 +10,8 @@ body {
   background: linear-gradient(to top right, rgb(218, 221, 227), rgb(119, 124, 133));
 }
 
-a {
-	background-color: background: #000000;
-        opacity: 0.4;
+a:focus {
+	background-color: background: rgba(0, 0, 0, 0.4);
         border-radius: 4px;
 	padding: 10px;
 	width: 128px;
