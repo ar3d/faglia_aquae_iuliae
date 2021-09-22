@@ -10,7 +10,7 @@ body {
   background: linear-gradient(to top right, rgb(218, 221, 227), rgb(119, 124, 133));
 }
 
-a:focus {
+a:link, a:visited {
 	background-color: background: rgba(0, 0, 0, 0.4);
         border-radius: 4px;
 	padding: 10px;
