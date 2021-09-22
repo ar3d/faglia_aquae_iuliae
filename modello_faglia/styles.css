@@ -10,18 +10,13 @@ body {
   background: linear-gradient(to top right, rgb(218, 221, 227), rgb(119, 124, 133));
 }
 
-.bottone {
-	background-color: background: rgba(0, 0, 0, 0.4);
-        border-radius: 4px;
-	padding: 10px;
-	width: 128px;
-	margin: auto;
-	text-align: center;
-	color: rgb(255, 255, 255);
-	font-size: 14px;
-	font-family: Futura, Helvetica Neue, sans-serif;
-        font-weight: bold;
-	cursor: pointer;
+a {
+	  background-color: #f44336;
+          color: white;
+          padding: 14px 25px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
 }
 
 .popup-me_1 {
