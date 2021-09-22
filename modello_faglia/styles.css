@@ -11,12 +11,17 @@ body {
 }
 
 a {
-	  background-color: #f44336;
-          color: white;
-          padding: 14px 25px;
-          text-align: center;
-          text-decoration: none;
-          display: inline-block;
+	background-color: rgba(0, 0, 0, 0.4);
+        border-radius: 4px;
+	padding: 10px;
+	width: 128px;
+	margin: auto;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.8);
+	font-size: 14px;
+	font-family: Futura, Helvetica Neue, sans-serif;
+        font-weight: bold;
+	cursor: pointer;
 }
 
 .popup-me_1 {
