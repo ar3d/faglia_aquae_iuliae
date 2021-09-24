@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_1").click(function(){
 
-		pop_init_1( "L'esistenza di una faglia è stata ipotizzata per la prima volta nel 1983 osservando la diversa distribuzione dei terrazzi del fiume Volturno a nord e a sud della frattura. La linea di frattura parte dall'area di Filignano a Nord-Ovest, dirigendosi verso l'area di Prata Sannita (CE) a Sud-Est, per una lunghezza di circa 22 km. In superficie si presenta con una netta scarpata alla base del gruppo montuoso Cesavaiuti–Favaracchi a Sud, mentre ci sono solo deboli indicazioni della sua presenza nel versante Riparossa a nord del Volturno." );
+		pop_init_1( "L'esistenza di una faglia è stata ipotizzata per la prima volta nel 1983, osservando la diversa distribuzione dei terrazzi del fiume Volturno a nord e a sud della frattura. La linea di frattura parte dall'area di Filignano a Nord-Ovest, dirigendosi verso l'area di Prata Sannita (CE) a Sud-Est, per una lunghezza di circa 22 km. In superficie si presenta con una netta scarpata alla base del gruppo montuoso Cesavaiuti–Favaracchi a Sud, mentre ci sono solo deboli indicazioni della sua presenza nel versante Riparossa a nord del Volturno." );
 
 	});
 

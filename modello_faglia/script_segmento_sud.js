@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_3").click(function(){
 
-		pop_init_3( "La faglia corre alla base delle montagne lungo la linea che separa le rocce carbonatico-dolomitiche dal ghiaione del piano alluvionale e, in alcuni punti, si presenta con una scarpata alta 3 m.  Verso sudest la faglia si divide in più linee di frattura." );
+		pop_init_3( "La faglia corre alla base delle montagne lungo la linea che separa le rocce carbonatico-dolomitiche dal ghiaione del piano alluvionale e, in alcuni punti, si presenta con una scarpata alta 3 metri.  Verso Sud-Est la faglia si divide in più linee di frattura." );
 
 	});
 
